@@ -1,0 +1,15 @@
+﻿Debugger:
+	- Immunity DBG
+Disassembler:
+	- IDA 6.8
+Monitor:
+	- Process monitor
+	- Process explorer
+	- Systracer
+	- Regshot
+PE tools:
+	- CFF Explorer
+	- LordPE DLX
+	- PE explorer
+	- PE tools
+	- PEID
